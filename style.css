@@ -36,6 +36,7 @@ body {
 }
 
 header {
+    text-align: center;
     background-color: #84a59d;
     border-bottom-right-radius: 25px;
     border-bottom-left-radius: 25px;
